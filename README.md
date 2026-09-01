@@ -1,5 +1,5 @@
 # 💫 Sobre:
-📖 Opa! Sou um estudante de Engenharia de Software no 4 semestre na faculdade UNICEPLAC<br>🌱 Estou atualmente reforçando meu conhecimento em JS.<br>
+📖 Opa! Meu nome é Natã.<br> 🎓 Sou um estudante de Engenharia de Software no 4 semestre na faculdade UNICEPLAC<br>🌱 Estou atualmente reforçando meu conhecimento em JS.<br>
 
 🔭 Estou atualmente trabalhando em dois projetos: <br>
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Natametonini&repo=natametonini%2F00Bet&description_lines_count=1&theme=github_dark)](https://github.com/natametonini/00Bet)
