@@ -46,7 +46,7 @@ e desenvolvendo projetos pessoais para colocar o que aprendo em prática.<br>
 <!-- Socials -->
 ## 🌐 Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/natametonini)
-[![email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natamtoliveira@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:) 
 
 </div>
 <!-- Criado usando um gerador automático :D -->
