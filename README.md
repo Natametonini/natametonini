@@ -1,3 +1,4 @@
+<!-- Info -->
 <div align="center"> 
   <h2>💫 Sobre: </h2> 
   
@@ -26,6 +27,7 @@ e desenvolvendo projetos pessoais para colocar o que aprendo em prática.<br>
 
 </div>
 
+<!-- Stats -->
 <div align="center">
 <h2>📊 Meus status: </h2>
   
@@ -34,9 +36,15 @@ e desenvolvendo projetos pessoais para colocar o que aprendo em prática.<br>
 
 </div>
 
+<!-- Crobrinha -->
+<h2></h2>
+
+![gifcobrinha](https://github.com/natametonini/natametonini/blob/output/github-contribution-grid-snake-dark.svg)
+
 <div align="center">
-  
-## 🌐 Socials:
+
+<!-- Socials -->
+## 🌐 Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/natametonini)
 [![email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natamtoliveira@gmail.com) 
 
